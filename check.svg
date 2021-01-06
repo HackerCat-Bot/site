@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="932px" height="932px" viewbox="0 0 932 932" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="done_outline-24px" transform="translate(75 73)">
+    <path d="M0 0L782 0L782 782L0 782L0 0L0 0Z" id="Shape" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M644.172 92.2109L689.789 137.828L274.678 552.939L92.2109 370.473L137.828 324.856L274.678 461.706L644.172 92.2109M644.172 7.76847e-06L274.678 369.495L137.828 232.645L0 370.473L274.678 645.15L782 137.827L644.172 0L644.172 7.76847e-06Z" transform="translate(0 71.68323)" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+  <path d="M0 0L258 0L258 65L0 65L0 0Z" transform="matrix(0.70710677 0.70710677 -0.70710677 0.70710677 213.06238 469.8)" id="Rectangle" fill="#00FF4C" fill-rule="evenodd" stroke="none" />
+  <path d="M0 0L466 0L466 65L0 65L0 0Z" transform="matrix(0.7071072 -0.70710737 0.70710737 0.7071072 346 610.23376)" id="Rectangle-Copy" fill="#00FF4C" fill-rule="evenodd" stroke="none" />
+  <path d="M0 0L63 0L63 65L0 65L0 0Z" transform="matrix(-0.7071072 0.70710737 0.70710737 0.7071072 719.32666 236.88106)" id="Rectangle-Copy-2" fill="#00FFA1" fill-rule="evenodd" stroke="none" />
+</svg>
